@@ -1,7 +1,7 @@
 [gd_scene load_steps=9 format=3 uid="uid://b0vt2kvgfog0x"]
 
 [ext_resource type="PackedScene" uid="uid://d1ueijufgaekg" path="res://ARPG resources/Items/Item1.tscn" id="1_nuxwi"]
-[ext_resource type="Texture2D" uid="uid://bk5tc3nc7gc03" path="res://Art/Sprite.png" id="2_hgqci"]
+[ext_resource type="Texture2D" uid="uid://bk5tc3nc7gc03" path="res://Art/Sword.png" id="2_hgqci"]
 [ext_resource type="Script" path="res://ARPG resources/Items/sword1.gd" id="2_rdf43"]
 [ext_resource type="Resource" uid="uid://c2n4ybc1s8p5t" path="res://ARPG resources/Inventory/items/sword.tres" id="3_tpc1w"]
 

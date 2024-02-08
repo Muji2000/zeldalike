@@ -1,7 +1,7 @@
 [gd_resource type="Resource" load_steps=3 format=3 uid="uid://c2n4ybc1s8p5t"]
 
 [ext_resource type="Script" path="res://ARPG resources/Inventory/inventoryItem.gd" id="1_7a3bq"]
-[ext_resource type="Texture2D" uid="uid://bk5tc3nc7gc03" path="res://Art/Sprite.png" id="2_awp74"]
+[ext_resource type="Texture2D" uid="uid://bk5tc3nc7gc03" path="res://Art/Sword.png" id="2_awp74"]
 
 [resource]
 script = ExtResource("1_7a3bq")
